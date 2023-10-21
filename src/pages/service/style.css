@@ -1,0 +1,12 @@
+.ds1{padding: 60px;}
+.ds1 p{margin-top:20px ;
+    font-size: 18px;}
+
+.do2{
+    background-color: #f1f1f1;
+   }
+.do1{display: flex;
+    width: 100%;
+justify-content: space-evenly;
+flex-wrap: wrap;
+margin-top: 20px;}

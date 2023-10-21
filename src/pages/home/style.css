@@ -1,0 +1,50 @@
+.ho1{color: white;
+    padding: 20px 50px;}
+.hp1{color: white;
+    font-size: 20px;
+    width: 40%;
+    padding: 10px 50px;}
+.hp2{color: white;
+    background-color: aqua;
+    width: 10%;
+    padding: 10px ;
+    text-align: center;
+    font-size: 18px;
+    margin-left: 50px;
+    }
+    .dd2{
+        width:300%;
+        transition: 0.5s;
+        display: flex;
+        transform: translateX(0);
+    }
+    .dd1{width: 33.3%;}
+    .dd3{display: flex;
+        justify-content: center;}
+        .btn{width: 20px;
+            height: 20px;
+            background: silver;
+            border-radius: 50%;
+        border: none;
+    cursor: pointer;
+margin: 30px 10px;}
+.dh1{width:36%;
+    margin:20px 30px
+    }
+.dh1 h1{margin-bottom: 20px;
+    color: white;}
+.dh1 p{margin-bottom: 20px;
+        color: white;}
+
+.inp{width:65%;
+    height: 5vh;}
+.btn2{padding: 12px 60px;
+    border: none;
+    color:whitesmoke;
+background-color: aqua;}
+.sp{color:aqua;}
+.img2{width:70px;
+    height:70px}
+.cl1{width: 30%;
+    margin: 20px;}
+.clients{display: flex;}
